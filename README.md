@@ -9,4 +9,4 @@ buttons at the same time as when the note crosses a certain threshold. If the pl
 note correctly, the game will give visual feedback while also increasing the score of the
 player. This score will be displayed on the liquid crystal display while the game is going
 along, showing your final score at the end. The final score will also be displayed along
-with an amount of stars at the end, ranging from 1-5, to show how well you did.
+with an amount of stars at the end, ranging from 1-5, to show how well you did. 
