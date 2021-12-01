@@ -9,3 +9,6 @@ time as when the note crosses a certain threshold. The song that the notes corre
 is the ABCs. If the player hits the note correctly, the game will increase the score of 
 the player by one. This score will be displayed on the 7 segment display while the game 
 is going along, showing your final score at the end. :)
+
+To get the game running in Quartus, open up the vga_with_hw_test_image.qpf file in quartus
+and program the fpga using that file, it should autofill the file to upload using the programmer.
