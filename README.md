@@ -12,3 +12,5 @@ is going along, showing your final score at the end. :)
 
 To get the game running in Quartus, open up the vga_with_hw_test_image.qpf file in quartus
 and program the fpga using that file, it should autofill the file to upload using the programmer.
+
+Demonstration: https://youtu.be/QmWoFfy1oiU
